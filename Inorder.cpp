@@ -67,7 +67,7 @@ BinaryTreeNode<int>* takeInput() {
 
 ## Solution: Inorder Tree Traversal
 ### Time Complexity: O(n)
-### Space Complexity: O(1)
+### Space Complexity: O(n)
 ### Input: In the Preorder format and for non existing child use -1;
 For exampe tree               5
                             /   \
